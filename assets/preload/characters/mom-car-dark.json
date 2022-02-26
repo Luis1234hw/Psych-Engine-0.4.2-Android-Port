@@ -3,71 +3,71 @@
 		{
 			"loop": false,
 			"offsets": [
-				3,
-				0
+				0,
+				30
 			],
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "monster idle"
+			"name": "Mom Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mom Left Pose"
 		},
 		{
 			"loop": false,
 			"offsets": [
 				10,
-				84
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "monster up note"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				0
-			],
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Monster left note"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				9,
 				-20
 			],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Monster Right note"
+			"name": "Mom Pose Left"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				10,
-				-70
+				0,
+				-240
 			],
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "monster down"
+			"name": "MOM DOWN POSE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				61
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mom Up Pose"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/d-Monster_Assets",
+	"image": "characters/d-momCarDARK",
 	"position": [
-		-90,
-		-10
+		0,
+		0
 	],
-	"healthicon": "monster",
+	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
-		210,
-		41,
-		72
+		225,
+		88,
+		74
 	],
 	"camera_position": [
 		0,
